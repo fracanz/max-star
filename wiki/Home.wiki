@@ -1,14 +1,5 @@
-#summary Home Page
 
-= Introduction =
+
 Due to the limitation of accommodating Latex equations the wiki for this project is located at http://maxstar.pbworks.com/FrontPage#view=page
 
-
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+The wiki is not released yet to the public.
