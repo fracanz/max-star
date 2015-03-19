@@ -1,0 +1,1 @@
+An open source R package for solving revenue management problems with stochastic dynamic programing and simulation methods.
